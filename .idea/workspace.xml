@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c840a51f-ca1a-4c50-840f-29eac6acf3c2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/fibo/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/smath/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sykesrle/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/demo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fibo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/smath.py" beforeDir="false" />
-    </list>
+    <list default="true" id="c840a51f-ca1a-4c50-840f-29eac6acf3c2" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
